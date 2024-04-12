@@ -661,7 +661,7 @@ def chat_loop_test(
             judge_sent_end=judge_sent_end,
         )
         outputs,logs = chatio.stream_output(output_stream)
-        print(log)
+        print(logs)
         conv.update_last_message(outputs.strip())
         chatanswer = outputs.strip()
         chatanswer=chatanswer.lower()
