@@ -1873,7 +1873,7 @@ class SimpleChatIO_log(ChatIO):
         for index in indexlist:
             print(output_log["tokens"][index+1])
             print(output_log["token_logprobs"][index+1])
-        return output_text,output_log
+        return " ".join(output_text),output_log
 
     def print_output(self, text: str):
         print(text)
