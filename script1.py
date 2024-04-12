@@ -1857,7 +1857,7 @@ class SimpleChatIO_log(ChatIO):
     def stream_output(self, output_stream):
         pre = 0
         log_token=[]
-        log_prog=[]
+        log_prob=[]
         for outputs in output_stream:
             output_text = outputs["text"]
             output_log=outputs["logprobs"]
@@ -1874,7 +1874,7 @@ class SimpleChatIO_log(ChatIO):
                 indexlist.append(i)
         for index in indexlist:
             log_token.append(output_log["tokens"][index+1])
-            log_prog.append(output_log["token_logprobs"][index+1])
+            log_prob.append(output_log["token_logprobs"][index+1])
         return " ".join(output_text),[log_token,log_prob]
 
     def print_output(self, text: str):
