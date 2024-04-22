@@ -74,29 +74,7 @@ zero_shots =[
 
 
 explain_report=[
-['Doctor', '''I will present you a radiology report. I want you to simplify it.
-
-Here are a few examples:
-Doctor: Diagnostic anatomopathologique : Diagnostic anatomopathologique : Adénocarcinome infiltrant. TTF1+ ALK- ROS1- PDL1+ (marquage de 60 % des cellules tumorales).
-Robot: - Pathological diagnosis: Adénocarcinome infiltrant
-- Percentage of PD-L1 cells: 90%
- 
-Doctor: Type histopathologique selon la classification internationale 2021 : Adénocarcinome infiltrant majoritairement de type acineux avec contingent micropapillaire (5%)Absence d’expression de ALK, ROS1 ou PD-L1 par les cellules tumorales.
-Robot: - Pathological diagnosis: Adénocarcinome
-- Percentage of PD-L1 cells: 0%
-
-Doctor: Diagnostic anatomopathologique : Carcinome épidermoïde infiltrant. PDL1 en cours.
-Robot: - Pathological diagnosis: Carcinome épidermoïde infiltrant
-- Percentage of PD-L1 cells: NA
- 
-Doctor: Diagnostic anatomopathologique : adénocarcinome infiltrant à prédominance acineuse. Mise en évidence d’une expression de la protéine PD-L1 dans 1% des cellules tumorales.
-Robot: - Pathological diagnosis: adénocarcinome
-- Percentage of PD-L1 cells: 1%
- 
-Doctor: Anticorps anti-PDL1 : Carcinome non à petites cellules dont les caractéristiques morphologiques évoquent un carcinome sarcomatoïde pléomorphes avec un contingent adénocarcinomateuxabsence d’expression au niveau des cellules tumorales. Il n’est pas mis en évidence d’expression de la protéine PD-L1 par les cellules
-Robot: - Pathological diagnosis: carcinome sarcomatoïde pléomorphes
-- Percentage of PD-L1 cells: 0%
- ''']
+['Doctor', '''I will present you a radiology report. I want you to simplify it.''']
 ]
 
 
