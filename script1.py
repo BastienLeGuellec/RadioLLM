@@ -152,7 +152,7 @@ class SimpleChatIO_log(ChatIO):
 Chatio=SimpleChatIO_log()
 
 
-d= chat_loop_test(model_path=vicuna1_5,device='cuda',num_gpus=3,max_gpu_memory='90Gib',dtype=None,load_8bit=False,cpu_offloading=False,conv_template="vicuna_v1.1",conv_system_msg="You are a robot dedicated to helping a Doctor. You will make a short, structured reponse.",temperature=0,repetition_penalty=1,max_new_tokens=16000,chatio=Chatio,debug=False,few_shots=explain_reports,file_path=f_simplify)
+d= chat_loop_test(model_path=vicuna1_5,device='cuda',num_gpus=3,max_gpu_memory='90Gib',dtype=None,load_8bit=False,cpu_offloading=False,conv_template="vicuna_v1.1",conv_system_msg="You are a robot dedicated to helping a Doctor. You will make a short, structured reponse.",temperature=0,repetition_penalty=1,max_new_tokens=16000,chatio=Chatio,debug=False,few_shots=explain_report,file_path=f_simplify)
 
 export_data = zip_longest(*d, fillvalue = '')
 
