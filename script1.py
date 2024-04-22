@@ -43,26 +43,7 @@ mistral_54b= '/data/stockage/bastien/models/mistralai_Mixtral-8x7B-Instruct-v0.1
 
 
 f_indic='/home/lbastien/liste_cr_SAU.txt'
-f_interpret='/home/lbastien/liste_CR_interpret.txt'
-f_finding='/home/lbastien/liste_CR_finding.txt'
-f_simple='/home/lbastien/liste_cr_simple.txt'
-f_test='/home/lbastien/cort16_pur.txt'
-f_results='/home/lbastien/liste_CR_results.txt'
-f_anapath='/home/lbastien/liste_cr_anatotal.txt'
-f_oxf='/home/lbastien/Glomerule/liste_cr_iga.txt'
-f_berden='/home/lbastien/Glomerule/liste_cr_berden_comp.txt'
-f_lupus='/home/lbastien/Glomerule/liste_cr_lupus.txt'
-f_gliome='/home/lbastien/irm_gliome_2.txt'
-f_gliome_indic='/home/lbastien/irm_gliome_3.txt'
-f_german='/home/lbastien/liste_CR_Deutsch.txt'
-f_anapath_de='/home/lbastien/liste_CR_anatotal_de.txt'
-f_pdl='/home/lbastien/liste_cr_pdl_test.txt'
-f_lupus_class='/home/lbastien/Glomerule/liste_cr_lupus_class.txt'
-f_250='/home/lbastien/random_250.txt'
-f_text='/home/lbastien/liste_CR_text.txt'
-f_rev='/home/lbastien/liste_revision.txt'
-f_rev_contrast='/home/lbastien/liste_revision_contrast.txt'
-f_rev_normal='/home/lbastien/liste_revision_normal.txt'
+f_simplify='/home/lbastien/MRI_impression_only.txt'
 
 
 
@@ -171,7 +152,7 @@ class SimpleChatIO_log(ChatIO):
 Chatio=SimpleChatIO_log()
 
 
-d= chat_loop_test(model_path=vicuna1_5,device='cuda',num_gpus=3,max_gpu_memory='90Gib',dtype=None,load_8bit=False,cpu_offloading=False,conv_template="vicuna_v1.1",conv_system_msg="You are a robot dedicated to helping a Doctor. The doctor will ask you to analyze a text and extract information from it. You will make a short, structured reponse using the template the Doctor will provide. The following first message from the Doctor explains the task and the template to use.",temperature=0,repetition_penalty=1,max_new_tokens=16000,chatio=Chatio,debug=False,few_shots=few_shots_interpret_normal,file_path=f_interpret)
+d= chat_loop_test(model_path=vicuna1_5,device='cuda',num_gpus=3,max_gpu_memory='90Gib',dtype=None,load_8bit=False,cpu_offloading=False,conv_template="vicuna_v1.1",conv_system_msg="You are a robot dedicated to helping a Doctor. You will make a short, structured reponse.",temperature=0,repetition_penalty=1,max_new_tokens=16000,chatio=Chatio,debug=False,few_shots=explain_reports,file_path=f_simplify)
 
 export_data = zip_longest(*d, fillvalue = '')
 
