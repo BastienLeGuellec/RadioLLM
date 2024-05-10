@@ -216,6 +216,7 @@ def main(args):
     else:
         raise ValueError(f"Invalid style for console: {args.style}")
     try:
+        print("Hello world")
         chat_loop(
             args.model_path,
             args.device,
