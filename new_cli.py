@@ -42,9 +42,10 @@ class SimpleChatIO(ChatIO):
         self._multiline = multiline
         self.text = "Tell me a story !!remove Tell me a joke !!remove count up to 10"
 
-    def prompt_for_input(self, role) -> str:
+    def prompt_for_input(self, role):
         prompt_data = self.text[:self.text.find("!!remove")]
         self.text[self.text.find("!!remove")+8:]
+        print(prompt_data)
         return prompt_data
 
     def prompt_for_output(self, role: str):
