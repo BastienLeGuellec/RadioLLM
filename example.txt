@@ -1,1 +1,1 @@
-Tell me a short joke !!remove What is the female of a horse? !!remove How tall is Michael Jordan? !!save <"/home/lbastien/conv1">
+Tell me a short joke !!remove What is the female of a horse? !!remove How tall is Michael Jordan? !!save <conv1.json>
