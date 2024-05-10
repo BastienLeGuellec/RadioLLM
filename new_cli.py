@@ -45,12 +45,13 @@ class SimpleChatIO(ChatIO):
         self.text = self.file.read()
 
     def prompt_for_input(self, role):
-        prompt_data = self.text[:self.text.find("!!remove")]
+        
         if self.text.find("!!remove")>-1:
+            prompt_data = self.text[:self.text.find("!!remove")]
             self.text=self.text[self.text.find("!!remove")+8:]
         else:
-            prompt_data="!!save <conv1.json>"
-            self.text="!!remove !!exit"
+            prompt_data=self.text
+            self.text="!!save conv1.json"
         print(prompt_data)
         return prompt_data
 
