@@ -44,7 +44,7 @@ class SimpleChatIO(ChatIO):
 
     def prompt_for_input(self, role):
         prompt_data = self.text[:self.text.find("!!remove")]
-        self.text[self.text.find("!!remove")+8:]
+        self.text=self.text[self.text.find("!!remove")+8:]
         print(prompt_data)
         return prompt_data
 
