@@ -49,9 +49,12 @@ class SimpleChatIO(ChatIO):
         if self.text.find("!!remove")>-1:
             prompt_data = self.text[:self.text.find("!!remove")]
             self.text=self.text[self.text.find("!!remove")+8:]
-        else:
+        elif self.text.find("!!save")>-1:
             prompt_data=self.text
             self.text="!!save conv1.json"
+        else:
+            prompt_data=self.text
+            self.text="!!exit"
         print(prompt_data)
         return prompt_data
 
