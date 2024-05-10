@@ -42,7 +42,7 @@ class SimpleChatIO(ChatIO):
         self._multiline = multiline
         self.file_path = "/home/lbastien/RadioLLM/radiollm/example.txt"
         self.file = open(self.file_path, 'r')
-        self.text = read(self.file)
+        self.text = self.file.read()
 
     def prompt_for_input(self, role):
         prompt_data = self.text[:self.text.find("!!remove")]
