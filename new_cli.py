@@ -40,20 +40,13 @@ from fastchat.utils import str_to_torch_dtype
 class SimpleChatIO(ChatIO):
     def __init__(self, multiline: bool = False):
         self._multiline = multiline
+        self.file_path = file_path
+        self.text = "Tell me a story !!remove Tell me a joke !!remove count up to 10"
 
     def prompt_for_input(self, role) -> str:
-        if not self._multiline:
-            return input(f"{role}: ")
-
-        prompt_data = []
-        line = input(f"{role} [ctrl-d/z on empty line to end]: ")
-        while True:
-            prompt_data.append(line.strip())
-            try:
-                line = input()
-            except EOFError as e:
-                break
-        return "\n".join(prompt_data)
+        prompt_data = self.text[:self.text.find("!!remove")]
+        self.text[self.text.find("!!remove")+8:]
+        return prompt_data
 
     def prompt_for_output(self, role: str):
         print(f"{role}: ", end="", flush=True)
