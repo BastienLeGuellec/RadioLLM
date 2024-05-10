@@ -40,7 +40,9 @@ from fastchat.utils import str_to_torch_dtype
 class SimpleChatIO(ChatIO):
     def __init__(self, multiline: bool = False):
         self._multiline = multiline
-        self.text = "Tell me a story !!remove Tell me a joke !!remove count up to 10"
+        self.file_path = "/home/lbastien/RadioLLM/radiollm/example.txt"
+        self.file = open(self.file_path, 'r')
+        self.text = read(self.file)
 
     def prompt_for_input(self, role):
         prompt_data = self.text[:self.text.find("!!remove")]
