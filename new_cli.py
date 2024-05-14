@@ -36,26 +36,30 @@ from fastchat.modules.gptq import GptqConfig
 from fastchat.serve.inference import ChatIO, chat_loop
 from fastchat.utils import str_to_torch_dtype
 
+file_path = "/home/lbastien/Prompt.txt"
+file = open(file_path, 'r')
+prompt = file.read()
+
 
 class SimpleChatIO(ChatIO):
     def __init__(self, multiline: bool = False):
         self._multiline = multiline
-        self.file_path = "/home/lbastien/RadioLLM/radiollm/example.txt"
+        self.file_path = "/home/lbastien/RadioLLM/radiollm/CR_EN_abnormal.txt"
         self.file = open(self.file_path, 'r')
         self.text = self.file.read()
 
     def prompt_for_input(self, role):
         
-        if self.text.find("!!remove")>-1:
-            prompt_data = self.text[:self.text.find("!!remove")]
+        if self.text.find("!!remove")>10:
+            prompt_data = prompt+self.text[:self.text.find("!!remove")]
+            self.text=self.text[self.text.find("!!remove"):]
+        elif -1<self.text.find("!!remove")<10:
+            prompt_data = "!!remove"
             self.text=self.text[self.text.find("!!remove")+8:]
-        elif self.text.find("!!save")==-1:
-            prompt_data=self.text
-            self.text="!!save conv1.json"
         else:
-            prompt_data=self.text
-            self.text="!!exit"
-        print(prompt_data)
+            prompt_data="!!exit"
+
+        print(prompt_data[prompt_data.find("notable points"):])
         return prompt_data
 
     def prompt_for_output(self, role: str):
