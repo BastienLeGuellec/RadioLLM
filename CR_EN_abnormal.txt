@@ -1,0 +1,298 @@
+!!remove CLINICAL HISTORY:  History of migraines, followup of T2 hyperintensity in the
+left temporal lobe and periventricular white matter.
+
+COMPARISON:  MRI of the 12/10/2014.
+
+TECHNIQUE:  MRI of the brain was done pre and post administration of 14 cc of
+intravenous gadolinium.  Multiplanar MPR and MP-RAGE images were provided.
+
+MRI BRAIN:  Periventricular white matter hyperintensities, which are
+non-enhancing are again seen and are unchanged in the size and distribution
+since 12/10/2014. The non enhancing hyperintensity within the left temporal
+lobe lesion is slightly smaller compared to prior study.  There is no
+hemorrhage, mass effect, edema, acute infarction, or hydrocephalus. 
+Ventricles and sulci are normal in caliber and configuration.  The principal
+vascular flow voids are preserved.  Globes and soft tissues are unremarkable. 
+Paranasal sinuses and mastoid air cells are well aerated.
+
+IMPRESSION:
+1.  Stable hyperintensities within the periventricular white matter without
+enhancement.  The overall appearance is compatible with but not specific for
+multiple sclerosis.
+2.  Increase in size of the left temporal lobe lesion making neoplasm
+unlikely, but given the lesions in the remainder of the brain, it is
+suggestive of an MS plaque.Recommend attention on follow up images. !!remove INDICATION:  History of migraines with no prior imaging.
+
+TECHNIQUE:  MRI of the brain without contrast including sagittal T1, axial T2,
+FLAIR, gradient echo, diffusion-weighted images.
+
+COMPARISON:  None.
+
+FINDINGS:  There is no hemorrhage, edema, shift of midline structures, or
+evidence of infarction.  The diffusion-weighted and ADC images are distorted
+and nondiagnostic.  There are punctate white matter FLAIR hyperintensities in
+the subcortical regions of the frontal lobes (7:11, 13).  The ventricles and
+sulci are normal in size and configuration.  The major intracranial vessel
+flow voids are preserved.  The orbits, periorbital, and paracavernous spaces
+are unremarkable.
+
+IMPRESSION:  Nonspecific white matter FLAIR hyperintensities.  Otherwise,
+abnormal MRI brain. !!remove EXAMINATION:  MR HEAD W AND W/O CONTRAST
+
+INDICATION:  80 year old woman with Incidental note made of an arachnoid cyst
+versus cisterna magna in the posterior fossa.  // please eval DWI
+sequence
+
+TECHNIQUE:  MRI of the brain is performed and includes the following
+sequences: sagittal T-weighted, axial fast spin echo T2-weighted, axial FLAIR,
+axial diffusion weighted and axial gradient echo images. The T1 weighted
+images were repeated after the administration of intravenous gadolinium
+contrast.  Sagittal MPRAGE and multiplanar reformations were provided.
+
+COMPARISON:  Head CT dated 12/10/2014.
+
+FINDINGS: 
+
+In comparison with the prior CT of the head dated 12/10/2014, again there is
+a prominent cisterna magna versus arachnoid cyst, measuring approximately
+34 x 59 mm in sagittal projection (image 11, series 4), there is mild
+remodeling of the inner table of the occipital bone and thin septation
+favoring arachnoid cyst, the diffusion-weighted sequence is normal with no
+evidence of slow diffusion to indicate epidermoid lesion.  The ventricles are
+normal in size and configuration with no evidence of hydrocephalus.  There is
+no acute infarction, intracranial hemorrhage, extracerebral fluid collection,
+midline shift or mass effect. The cerebral volume is appropriate for the
+patient's stated age.  5 x 2.5 mm small focus of T2 and FLAIR high signal
+intensity is noted in the subcortical white matter of the left frontal lobe
+(image 18, series 8), which is nonspecific and may represent chronic gliotic
+area.  The major vascular flow voids are present and demonstrate normal
+distribution, there is no evidence of abnormal enhancement. The orbits are
+unremarkable, the paranasal sinuses and mastoid air cells are clear.
+
+IMPRESSION: 
+
+1.  Prominent cisterna magna versus arachnoid cyst as described detail
+above, with no evidence of slow diffusion.  A thin septation within this cyst
+and remodeling of the occipital bone favors a possible arachnoid cyst. There
+is no evidence of abnormal enhancement.
+
+2.  5 x 2.5 mm, small focus of low T2 and FLAIR signal intensity is noted in
+the left frontal lobe as described detail above, which is nonspecific and may
+represent a small gliotic focus, this finding is of doubtful clinical
+Significance. !!remove MRI OF THE BRAIN WITH GADOLINIUM
+
+HISTORY:  Right frontal meningioma.
+
+TECHNIQUE:  Only post-gadolinium images were obtained for pre-surgical
+planning.
+
+Comparison is made with multiple prior studies including 12/10/2014.
+
+FINDINGS:
+
+Again noted is a large right inferior frontal lobe mass with surrounding edema
+which is dural based.  Appearance is most suggestive of a meningioma.
+
+No other lesions are seen.
+
+IMPRESSION:
+
+No significant change in size of left frontal meningioma with surrounding
+edema and shift of midline to the left. !!remove EXAMINATION:  MR HEAD W AND W/O CONTRAST
+
+INDICATION:  80 year old woman with SLE, ESRD admitted for altered mental
+status.  // Evaluate for vasculitis vs cerebritis. Needs to be done in the
+late evening or early morning prior to hemodialysis.
+
+TECHNIQUE:  MRI of the head with and without IV contrast sagittal T1, and
+axial T1, T2, gradient, FLAIR and diffusion-weighted images were obtained the
+without contrast. After the administration of gadolinium axial T1 and sagittal
+MPRAGE sequences were obtained with axial and coronal reformats.
+
+COMPARISON:  MR brain dated 12/10/2014
+
+FINDINGS: 
+
+No acute infarct, suspicious focus of intracranial hemorrhage, mass effect,
+shift of normally midline structures or hydrocephalus.
+There are multiple small T2 FLAIR hyperintense foci in the cerebral white
+matter in the frontal and parietal lobes and a few in the temporal lobes on
+both sides , nonspecific in appearance and unchanged from prior.
+There is no abnormal enhancement associated with these foci.
+On the axial T1 post contrast images, an area of apparent enhancement in the
+right temporal lobe likely represents pulsation artifact as it is not seen on
+the other postcontrast sequences (15:10).
+The ventricles, extra-axial CSF spaces, cerebral sulci and cerebellar folia
+are normal/mildly prominent as before.
+Venous sinuses enhance symmetrically
+Sella, pineal gland, craniocervical junction regions are unremarkable.
+The imaged paranasal sinuses and the mastoid air cells are clear.
+The imaged orbits are unremarkable.  Right lens not seen.
+Bone marrow signal is slightly heterogeneous.
+
+IMPRESSION:
+
+
+1. Multiple T2 FLAIR hyperintense foci in the cerebral white matter as
+described above, similar to prior, nonspecific in appearance can be seen with
+small-vessel ischemic changes, post-inflammatory sequela, vasculitis etc. 
+Exact etiology difficult to be determined based on imaging alone. Correlate
+for risk factors.  Abnormal enhancement and restricted diffusion.  F/u as
+needed.
+2. No evidence of acute intracranial hemorrhage or infarct.
+3. Slightly heterogeneously hypointense marrow signal- correlate with
+hematology labs. !!remove EXAMINATION:  MR HEAD W AND W/O CONTRAST.
+
+INDICATION:  80 year old man with metastatic alveolar sarcoma here with
+headaches  // eval current burden of metastases.
+
+TECHNIQUE:  MRI of the brain is performed and includes the following
+sequences: sagittal T2-weighted, axial fast spin echo T2-weighted, axial FLAIR,
+axial diffusion weighted and axial gradient echo images. The T1 weighted
+images were repeated after the administration of intravenous gadolinium
+contrast.  Sagittal MPRAGE with multiplanar reformations were provided.
+
+COMPARISON:  Multiple prior head CT and MRI examinations of the head, the most
+recent MRI of the head dated 12/10/2014.
+
+FINDINGS: 
+
+In comparison with the most recent MRI examination,  there is slight increased
+in size of the left frontal dural based enhancing lesion, measuring
+approximately 17.6 x 22.6 mm in transverse dimension and previously 14.7 x
+19.9 mm.  Additionally there is increased vasogenic edema noted on the FLAIR
+images (image 11, series 8, and prior FLAIR image 11, series 7.), causing mild
+mass effect and effacement of the left frontal ventricular horn as
+demonstrated on the image 13, series 11.  The enhancing lesion identified in
+the right centrum semiovale abutting the posterior aspect of the right lateral
+ventricle appears is slightly smaller and demonstrates susceptibility areas,
+measuring approximately 14.8 x 15.5 mm in transverse dimension and previously
+18.8 x 17.3 mm.  The lesion in the left cerebellar hemisphere remains
+unchanged and measures approximately 5 x 5 mm in transverse dimension (image
+3, series 11).  The previously noted enhancing lesion on the right cerebellar
+hemisphere appears slightly larger, measuring approximately 3.4 mm in
+transverse dimension (image 34, series 1000b), previously measuring 1.7 mm.
+The major vascular flow voids are patent and demonstrate normal distribution. 
+The orbits are unremarkable, the paranasal sinuses and the mastoid air cells
+are clear.
+
+IMPRESSION: 
+
+1.  Slightly smaller left frontal dural-based enhancing lesion with increased
+vasogenic edema, causing mild mass effect in the left frontal ventricular horn
+as described above.
+
+2.  Slightly smaller right centrum semiovale enhancing lesion with new areas
+of susceptibility, suggesting tumoral hemorrhage and necrosis.
+
+3.  Unchanged left cerebellar hemisphere nodular enhancing lesion, measuring
+approximately 5 x 5 mm in transverse dimension.
+
+4.  Slightly larger right cerebellar hemisphere pontine enhancing lesion,
+measuring approximately 3.4 mm in transverse dimension, no new enhancing
+lesions are identified. !!remove EXAMINATION:  MR HEAD W/O CONTRAST
+
+INDICATION:  80 year old woman with severe chronic migraines. Was suposedly
+told she had empty sella when she was a child.  // Acute intracranial mass or
+process to explain severe migraines x 1 month?
+
+TECHNIQUE:  MRI of the brain is performed and includes the following
+sequences: sagittal T1-weighted, axial fast spin echo T2-weighted,axial flair,
+axial diffusion weighted and axial gradient echo images .
+
+COMPARISON:  None.
+
+FINDINGS: 
+
+There is no acute infarction, intracranial hemorrhage, extracerebral fluid
+collection, midline shift or mass effect.  Ventricles and extra-axial spaces
+are normal in size.  Flow voids are maintained. Suprasellar and craniocervical
+regions are unremarkable.
+
+There is an empty sella visualized. The pituitary fossa is not significantly
+enlarged.
+
+There is irregularity and low signal seen along the inner table of the skull
+at the convexity with a 1.8 cm excrescence along the inner table is likely
+secondary to hyperostosis interna. No discrete mass is identified.
+
+IMPRESSION: 
+
+No significant abnormalities are seen on MRI of the brain without gadolinium. 
+Empty sella is identified with enlargement of the pituitary fossa. !!remove EXAM:  MRI of the brain.
+
+CLINICAL INFORMATION:  Patient with transient episode of ataxia for further
+evaluation.
+
+TECHNIQUE:  T1 sagittal and FLAIR, T2 susceptibility and diffusion axial
+images of the brain were acquired.  3D time-of-flight MRA of the circle of
+Willis obtained.  Gadolinium-enhanced MRA of the neck was obtained.
+
+FINDINGS:
+
+BRAIN MRI:
+
+There is no evidence of acute infarct.  No mass effect, midline shift or
+hydrocephalus.  Mild changes of small vessel disease are seen.
+Head MRA demonstrates normal flow signal in the arteries of anterior and
+posterior circulation.  Slight protuberance of the superior aspect of the left
+middle cerebral artery appears to be due to at the origin of a vascular
+structure.
+
+IMPRESSION:  There is no evidence of acute infarct. No significant abnormalities on MRA of the head.
+!!remove EXAMINATION:  MRI brain with and without gadolinium.
+
+INDICATION:  Status post left craniotomy for evacuation of acute on chronic
+large subdural hematoma on Tuesday. Left-sided plegia.
+
+TECHNIQUE:  Multiplanar, multisequence MRI of the brain was performed with and
+without gadolinium.
+
+12/10/2014 CT brain, 12/12/2014 CT brain, both without contrast.
+
+FINDINGS:
+
+There is diffusely low signal intensity within the calvarial and upper
+cervical spine bone marrow.  Endotracheal tube is partially visualized.
+
+There has been continued slight interval decrease in mass effect, and
+rightward midline shift of the septum pellucidum measures approximately 9 mm
+today, decreased from 21 mm preoperatively and slightly decreased from 10 mm
+on yesterday's postoperative CT.  Other post-operative changes are again
+demonstrated including pneumocephalus and a residual left extra-axial
+collection which is similar in size to yesterday's CT, approximately 13 mm in
+greatest thickness, extending over the left convexity.  The amount of
+pneumocephalus has decreased slightly.
+
+There has been continued decrease in size of the previously trapped right
+lateral ventricle, and there remains marked effacement of the left lateral
+ventricle.  FLAIR hyperintense signal within the right atrial and occipital
+periventricular white matter suggestive of transependymal edema, as seen on
+the prior CT, has hypodensity.  Expected post-operative changes are seen
+involving the left scalp as well.
+
+There is acute infarct involving the anterior left temporal lobe, extending
+medially, with smaller scattered infarcts within the right subinsular white
+matter.  A smaller infarct is seen in the left posterior temporal/anterior
+parietal region.
+
+There is no evidence of new hemorrhage compared to the recent CT.
+
+Major intracranial flow voids are preserved.  There is expected mild
+peripheral enhancement along the resection cavity.
+
+There is underlying prominence of the ventricles, cisterns and sulci, somewhat
+advanced for age, suggestive of volume loss.
+
+IMPRESSION:
+1.  Acute infarct involving the anterior aspect of the left temporal lobe and
+smaller infarct within the left subinsular white matter and left putamen. 
+Smaller infarcts are also seen in the left posterior temporal/anterior
+parietal cortex inferiorly and within the adjacent white matter.
+
+2.  Expected changes from recent left craniotomy for subdural hematoma
+evacuation with slight interval decrease in amount of pneumocephalus and
+slight interval decrease in mass effect, when compared to the recent
+postoperative CT.  There remains leftward midline shift of the septum
+pellucidum, and enlargement of the right lateral ventricle which has improved
+slightly compared to prior.
