@@ -204,4 +204,71 @@ Protocole: Séquences sagittales et axiales T1 et FLAIR, axiales T2* et diffusio
 
 Résultats: Stabilité de l’oedeme péri-lésionnel autour des lésions annulaires rehaussées occipitales et parietales gauches précemment décrites. Ces lésions semblent discrètement plus petites. La lésion  du ganlion de la base gauche est inchangée. La lésion précédemment décrite dans le lobe temporal droit est moins visible ce jour. Pas de lésion rehaussée apparue. Pas de restriction de diffusion ou de déviation de la ligne médiane.
 
-Conclusion: Pas de modification de l’oedème autour des lésions annulaires rehaussées occipitales et pariétales gauches, qui semblent néanmoins moins rehaussées ce jour, ce qui peut être dû à une différence de technique ou à une régression partielle. D’autres des lésions précédemment décrites sont inchangées, à titre d’exemple celles du lobe occipital droit et du ganglion de la base gauche. La lésion précédemment décrite dans le lobe temporal droit n’est pas visible. Une poursuite du suivi est recommandée. Le diagnostic différentiel a été décrit dans un précédent compte-rendu.
+Conclusion: Pas de modification de l’oedème autour des lésions annulaires rehaussées occipitales et pariétales gauches, qui semblent néanmoins moins rehaussées ce jour, ce qui peut être dû à une différence de technique ou à une régression partielle. D’autres des lésions précédemment décrites sont inchangées, à titre d’exemple celles du lobe occipital droit et du ganglion de la base gauche. La lésion précédemment décrite dans le lobe temporal droit n’est pas visible. Une poursuite du suivi est recommandée. Le diagnostic différentiel a été décrit dans un précédent compte-rendu. !!remove Examen: IRM cérébrale
+
+Indication: Patient aux antécédents de traumatismes crâniens répétés et de rixe, présentant des céphalées persistantes et des troubles de la mémoire.
+
+Protocole: Séquences sagittales T1 et T2 FLAIR, axiales T2* et diffusion.
+
+Résultats: Intégrité des ventricules et des espaces liquidiens péri-encéphaliques. Pas de déviation de la ligne médiane, d’effet de masse ou d’hydrocéphalie. Un hypersignal T2 de moins de 3mm de la substance blanche du carrefour ventriculaire gauche, non spécifique. Pas d’autre anomalie focale. Pas de microbleed. Les régions supra-sellaires et craniocervicales sont normales.
+
+Conclusion: IRM cérébrale sans injection normale. Une petite lésion en hypersignal T2 non spécifique du carrefour ventricule gauche. !!remove Examen: IRM cérébrale
+
+Indication: Faiblesse musculaire intermittente, éliminer une anomalie intracrânienne.
+
+Protocole: Séquences sagittales T1 et T2 FLAIR, axiales T2* et diffusion.
+
+Résultats: Pas de lésion ischémique sur la séquence diffusion. Pas d’effet de masse, de déviation de la ligne médiane ou d’hydrocéphalie. Les régions supra-sellaires et craniocervicales sont normales. Quelques lésions en hypersignal T2 disséminées non spécifiques.
+
+Conclusion: Pas de lésion ischémique récente ou d’anomalie significative sur cette IRM cérébrale sans injection. !!remove Indication: Femme de 80 ans aux antécédents familiaux d’anévrisme. Céphalées quotidiennes et vomissements.
+
+Technique: Examen sans puis avec injection de gadolinum. Séquence  ARM par 3D TOF complémentaire. Reformatation 3D de l’ARM.
+
+Résultats: Pas d’anomalie de signal ou de rehaussement pathologique du parenchyme cérébral. Les ventricules, sillons et les espaces liquidiens péri-encéphaliques sont normaux. Pas de lésion ischémique ou hémorragique. Séquences post-injection dégradées par des artefacts cinétiques.
+Pas d’anévrismes des vaisseaux des circulation antérieure et postérieure. Pas de sténose de haut grade ou d’occlusion. Co-dominance vetébrale.
+
+Conclusion: Pas d’anévirmse intracrânien. Pas d’anomalie de signal ou de rehaussement pathologique du parenchyme cérébral. !!remove Indication: Femme de 80 ans aux antécédents de méningiome.
+
+Protocole: IRM cérébrale avec injection selon le protocole du service.
+
+Comparaison avec l’examen sans et avec injection réalisé sur site le  12/10/2014
+
+Résultats: On voit bien le méningiome basé sur le sphénoïde droit, stabilité de sa taille, de son apparence et de son effet de masse sur la corne frontale ipsilatérale du ventricule latéral. Rehaussement relativement homogène. Les mesures sont faites pour la neuronavigation.
+Le reste de l’examen est inchangé en comparaison avec l’examen précédent.
+
+Conclusion: Méningiome stable inchangé, basé sur l’os sphénoïde droit, avec stabilité de son effet de masse sur la corne frontale du ventricule latéral ipsilatéral. !!remove Examen: IRM cérébrale
+
+Indication: Paralysie faciale gauche, recherche d’infarctus. Patient aux antécédents d’instabilité à la marche.
+
+Protocole: Séquences sagittales T1 et T2 FLAIR, axiales T2* et diffusion.
+
+Résultats: Pas de lésion ischémique ou hémorragique récente. Plusieurs séquelles ischémiques anciennes dans le lobe frontal droit et en territoire jonctionnel ainsi que dans la convexité droite. Plusieurs séquelles ischémiques dans le lobe temporal droit, touchant les deux hémisphères cérébelleux. Atrophie cérébrale diffuse et atrophie mésiale. Signes d’encéphalomalacie en région temporale antérieure. Pas de déviation de la ligne médiane ou d’hydrocéphalie. Un microbleed à la partie postérieure du lobe temporal droit, au sein d’un territoire infarci. Corps calleux anormalement fin.
+
+Conclusion: Pas de lésion ischémique récente. Elargissement des ventricules y compris des cornes temporales, en lien avec une atrophie globale et mésiale. Plusieurs séquelles ischémiques anciennes telles que décrites. !!remove Examen: IRM cérébrale sans injection
+
+Indication: Femme de 80 ans avec un NSTEMI, un sténose valvulaire aortique sévère traitée par valvuloplastie présentant des troubles neurologiques et une encéphalopathie sévère. Recherche d’une étiologie.
+
+Technique: IRM réalisée avec les séquences suivantes: sagittale T1, axiale T2 fast spin echo, FLAIR, diffusion, et T2*
+
+Comparaison avec l’IRM du 12/10/2014
+
+Résultats: Pas d’infarctus récent de masse ou d’hydrocéphalie. Atrophie cérébrale modérée. Pas de microbleed chronique. Intégrité des régions suprasellaires et craniocervicales.
+
+Conclusion: Pas d’anomalie visible sur cet examen. !!remove Indication: Homme de 80 ans présentant une épilepsie réfractaire. Eliminer une anomalie structurelle.
+
+Protocole: IRM réalisée sans puis après injection selon le protocole “epilepsie chronique”
+
+Comparaison: Aucune
+
+Résultats:
+Signal normal du cerveau. Pas de signe de dysplasie corticale ou d’hétérotopie. Pas de sclérose temporale. Pas d’hyposignal sur la séquence de susceptibilité évocatrice d’hémorragie.
+
+Découverte incidentelle d’une selle turcique modérément élargie avec un aplatissement de l’hypophyse, témoignant d’une selle turcique partiellement vide. 
+
+Ventricules de taille normale, sans hydrocéphalie.
+
+Découverte incidentelle d’un ventricule latéral gauche asyémétrique, élargi, probablement en rapport avec une variante normale.
+
+Orbites sans particularité. Epaississement muqueux et comblement des cellules éthmoïdales de manière bilatérale. Epaississement muqueux des sinus frontaux et de l’antre du sinus maxillaire. Petit kyste rétentionnel du sinus sphénoïde droit. Les cellules mastoïdiennes sont aérées.
+
+Conclusion: IRM cérébrale sans particularité. Pas de dysplasie corticale, d’hétérotopie ou de sclérose temporale.
