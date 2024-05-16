@@ -1,0 +1,2 @@
+In the following, I will provide you with a radiology report, divided into a ‘findings’ and an ‘impression’ section. Please evaluate the report for mistakes and assess and validate the consistency between the ‘findings’ and the ‘impression’ sections, highlighting any discrepancies or notable points.
+
