@@ -59,7 +59,7 @@ class SimpleChatIO(ChatIO):
         else:
             prompt_data="!!exit"
 
-        print(prompt_data[prompt_data.find("notable points"):])
+        print(prompt_data)
         return prompt_data
 
     def prompt_for_output(self, role: str):
