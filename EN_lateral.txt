@@ -83,7 +83,7 @@ No other lesions are seen.
 IMPRESSION:
 
 No significant change in size of left frontal meningioma with surrounding
-edema and shift of midline to the left. ! EXAMINATION:  MR HEAD W AND W/O CONTRAST.
+edema and shift of midline to the left. !!remove EXAMINATION:  MR HEAD W AND W/O CONTRAST.
 
 INDICATION:  80 year old man with metastatic alveolar sarcoma here with
 headaches  // eval current burden of metastases.
@@ -285,7 +285,7 @@ recurrent enhancement.  The FLAIR abnormalities are stable.  No increased
 perfusion is seen in the region.
 
 !!remove
-","EXAM:  MRI of the brain.
+EXAM:  MRI of the brain.
 
 CLINICAL INFORMATION:  Patient with HIV enhancing lesions seen on the previous
 study, for followup.
@@ -314,7 +314,7 @@ the current study.  Continued followup recommended.  The differential
 diagnosis as discussed in detail previously.
 
 !!remove
-","EXAM:  MRI brain.
+EXAM:  MRI brain.
 
 CLINICAL INFORMATION:  Patient with history of multiple concussions and prior
 assault, now presenting with persistent headache and memory problems.
@@ -334,7 +334,7 @@ gadolinium.  A tiny nonspecific focus of T2 hyperintensity is seen in the right
 periatrial white matter.
 
 !!remove 
-","HISTORY:  80 y/o female patient with history of meningioma.
+HISTORY:  80 y/o female patient with history of meningioma.
 
 TECHNIQUE:  MRI of the brain was performed with contrast as per wand protocol.
 
@@ -356,7 +356,7 @@ Stable unchanged meningioma arising from the left sphenoid bone with stable
 mass effect on the ipsilateral frontal horn.
 
 !!remove
-","HISTORY:  80 y/o male patient with intractable seizures.  Rule out
+HISTORY:  80 y/o male patient with intractable seizures.  Rule out
 structural abnormality.
 
 TECHNIQUE:  MRI of the brain was performed with and without IV contrast as per
