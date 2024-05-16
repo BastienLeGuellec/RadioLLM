@@ -36,7 +36,7 @@ from fastchat.modules.gptq import GptqConfig
 from fastchat.serve.inference import ChatIO, chat_loop
 from fastchat.utils import str_to_torch_dtype
 
-file_path = "/home/lbastien/Prompt.txt"
+file_path = "/home/lbastien/Consigne.txt"
 file = open(file_path, 'r')
 prompt = file.read()
 
@@ -44,7 +44,7 @@ prompt = file.read()
 class SimpleChatIO(ChatIO):
     def __init__(self, multiline: bool = False):
         self._multiline = multiline
-        self.file_path = "/home/lbastien/RadioLLM/radiollm/EN_lateral.txt"
+        self.file_path = "/home/lbastien/RadioLLM/radiollm/FR_lateral.txt"
         self.file = open(self.file_path, 'r')
         self.text = self.file.read()
 
