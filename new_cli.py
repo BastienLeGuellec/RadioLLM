@@ -44,7 +44,7 @@ prompt = file.read()
 class SimpleChatIO(ChatIO):
     def __init__(self, multiline: bool = False):
         self._multiline = multiline
-        self.file_path = "/home/lbastien/RadioLLM/radiollm/CR_EN_lateral.txt"
+        self.file_path = "/home/lbastien/RadioLLM/radiollm/EN_lateral.txt"
         self.file = open(self.file_path, 'r')
         self.text = self.file.read()
 
