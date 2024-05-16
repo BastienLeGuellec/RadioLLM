@@ -1,0 +1,159 @@
+﻿!!remove INDICATION : Antécédents de migraines, suivi d'un hypersignal FLAIR dans le lobe temporal gauche et la substance blanche périvertriculaire.
+
+COMPARAISON : IRM du 12/10/2014.
+
+TECHNIQUE : IRM du cerveau réalisée avant et après l'administration de 14 cc de gadolinium intraveineux. Des images multiplans MPR et MP-RAGE ont été fournies.
+
+RESULTATS : Les hypersignaux de la substance blanche périvertriculaire, non rehaussés, sont de nouveau observés et restent inchangés en taille et en distribution depuis le 12/10/2014. L'hypersignal non rehaussé dans du lobe temporal gauche est légèrement plus petit par rapport à l’examen précédent. Il n'y a pas d'hémorragie, d'effet de masse, d'œdème, d'infarctus aigu, ni d'hydrocéphalie. Les ventricules et les sillons sont de calibre et de morphologie normaux. Les flow voids vasculaires sont préservés. Les globes et les tissus mous sont normaux. Les sinus paranasaux et les cellules mastoïdiennes sont bien aérés.
+
+CONCLUSION :
+
+1. Hypersignaux stables au sein de la substance blanche périvertriculaire sans rehaussement. L'aspect général est compatible avec une sclérose en plaques, mais non spécifiques.
+2. Diminution de la taille de la lésion du lobe temporal droit rendant une néoplasie peu probable, mais étant donné les lésions dans le reste du cerveau, cela suggère une plaque de SEP. Il est recommandé d’y porter une attention particulière lors des prochains examens d'imagerie. !!removeEXAMEN : IRM TÊTE AVEC ET SANS CONTRASTE
+
+INDICATION : Femme de 80 ans avec trouvaille incidentale d'un kyste arachnoïdien versus citerne magna dans la fosse postérieure. // Évaluer la séquence en diffusion (DWI).
+
+TECHNIQUE : IRM du cerveau réalisée incluant les séquences suivantes : sagittale pondérée T1, axiale écho de spin rapide pondérée T2, axiale FLAIR, axiale en diffusion pondérée et axiale en écho de gradient. Les images pondérées T1 ont été répétées après administration de contraste gadolinium intraveineux. Des reconstructions MPRAGE sagittales et multiplans ont été fournies.
+
+COMPARAISON : scanner de la tête daté du 12/10/2014.
+
+RÉSULTATS :
+
+En comparaison avec le scanner précédent de la tête daté du 12/10/2014, il y a encore une citerne magna proéminente versus un kyste arachnoïdien, mesurant approximativement 34 x 59 mm en sagittal (image 11, série 4), avec un remodelage léger de la table interne de l'os occipital et une cloison fine favorisant un kyste arachnoïdien, la séquence en diffusion est normale sans preuve de diffusion lente qui indiquerait une lésion épidermoïde. Les ventricules sont de taille et de morphologie normales sans signe d'hydrocéphalie. Il n'y a pas d'infarctus aigu, d'hémorragie intracrânienne, de collection liquidienne extracérébrale, de déplacement de la ligne médiane ou d'effet de masse. Le volume cérébral est approprié pour l'âge déclaré du patient. Un petit hypersignal de 5 x 2.5 mm en T2 et FLAIR est noté dans la substance blanche sous-corticale du lobe frontal gauche (image 18, série 8), qui est non spécifique et pourrait représenter une zone de gliose chronique. Les flow voids sont présents et montrent une distribution normale, il n'y a pas de rehaussement anormal. Les orbites sont sans particularité, les sinus paranasaux et les cellules mastoïdiennes sont aérés.
+
+CONCLUSION :
+
+1.    Citerne magna proéminente versus kyste arachnoïdien comme décrit ci-dessus, sans diffusion lente. Une cloison fine à l'intérieur de ce kyste et le remodelage de l'os occipital favorisent un possible kyste arachnoïdien. Il n'y a pas de rehaussement anormal.
+
+2.    Un petit hypersignal FLAIR et T2 de 5 x 2.5 mm est noté dans le lobe frontal droit comme décrit ci-dessus, ce qui est non spécifique et peut représenter un petit foyer gliose, cette découverte est d'une signification clinique incertaine. !!remove HISTORIQUE : Méningiome frontal droit.
+
+TECHNIQUE : Seules les images post-gadolinium ont été obtenues pour la planification pré-chirurgicale.
+
+Une comparaison est faite avec plusieurs études précédentes, dont celle du 12/10/2014.
+
+RÉSULTATS :
+
+On note de nouveau une grande masse du lobe frontal inférieur droit avec œdème environnant, qui avec base d’implentation durale. L'aspect est le plus évocateur d'un méningiome.
+
+Aucune autre lésion n'est observée.
+
+CONCLUSION :
+
+Pas de changement significatif dans la taille du méningiome frontal gauche avec œdème environnant et déplacement de la ligne médiane vers la gauche. !!remove EXAMEN : IRM de la tête avec et sans contraste.
+
+INDICATION : Homme de 80 ans atteint de sarcome alvéolaire métastatique présentant des maux de tête // évaluer la charge actuelle des métastases.
+
+TECHNIQUE : IRM du cerveau réalisée incluant les séquences suivantes : sagittale pondérée en T2, axiale écho de spin rapide pondérée en T2, axiale FLAIR, axiale en diffusion pondérée et axiale en écho de gradient. Les images pondérées en T1 ont été répétées après l'administration de contraste gadolinium intraveineux. MPRAGE sagittal avec des reformations multiplans ont été fournis.
+
+COMPARAISON : Plusieurs CT précédents et examens IRM de la tête, le plus récent datant du 12/10/2014.
+
+RÉSULTATS :
+
+En comparaison avec l'examen IRM le plus récent, il y a une légère augmentation de la taille de la lésion durale frontale gauche, mesurant environ 17,6 x 22,6 mm en axial, contre 14,7 x 19,9 mm précédemment. De plus, un œdème vasogénique accru est noté sur les images FLAIR (image 11, série 8, et image FLAIR précédente 11, série 7), causant un léger effet de masse et un effacement de la corne ventriculaire frontale gauche comme démontré sur l'image 13, série 11. La lésion rehaussée identifiée dans le centre semi-ovale droit jouxtant le ventricule latéral droit est légèrement plus petite, mesurant environ 14,8 x 15,5 mm en axial, contre 18,8 x 17,3 mm précédellent, et présente des hyposignaux T2*. La lésion dans l'hémisphère cérébelleux gauche reste inchangée et mesure environ 5 x 5 mm en axial (image 3, série 11). La lésion réhaussée précédemment visible dans l'hémisphère cérébelleux droit semble légèrement plus grande, mesurant environ 3,4 mm en axial (image 34, série 1000b), contre 1,7 mm précédemment. Les flow voids ont une distribution normale. Les orbites sont sans particularité, les sinus paranasaux et les cellules mastoïdiennes sont aérés.
+
+IMPRESSION :
+
+1.    Lésion durale frontale gauche réhaussée légèrement plus grande avec un œdème vasogénique accru, causant un léger effet de masse dans la corne ventriculaire frontale gauche comme décrit ci-dessus.
+
+2.    Lésion réhaussée du centre semi-ovale droit légèrement plus petite avec de nouvelles zones en hyposignal T2*, suggérant une hémorragie et une nécrose tumorale.
+
+3.    Lésion nodulaire rehaussée de l'hémisphère cérébelleux droit inchangée, mesurant environ 5 x 5 mm en dimension axial.
+
+4.    Lésion pontine rehaussée de l'hémisphère cérébelleux droit légèrement plus grande, mesurant environ 3,4 mm en axial, aucune nouvelle lésion rehaussante identifiée. !!remove EXAMEN:  IRM encéphalique sans puis après injection de gadolinum.
+
+INDICATION:  Evacuation d’un hématome sous-dural gauche aigu et chronique par craniectomie mardi. Hémiplégie gauche.
+
+TECHNIQUE:  Plusieurs séquences IRM sans puis après injection de gadolinium
+
+Examen comparé avec les scanner antérieurs du 12/10/2014 et du 12/12/2014, sans injection
+
+RESULTATS:
+
+Signal faible de la moelle osseuse de la partie haute du rachis cervical et du crâne. Sonde d’intubation partiellement visible.
+
+Poursuite de la discrète régression de la déviation de la ligne médiane vers la droite et du septum pellicidum, à environ 9mm aujourd’hui contre 21mm en post-opératoire et 10 hier.
+Les autres remaniements post-opératoires sont eux-aussi retrouvés avec une pneumoencéphalie et une collection extra-axiale gauche de taille similaire en comparaison à la veille, mesurée à environ 13mm d’épaisseur maximale, s’étendant à la convexité gauche. La quantité de pneumoencéphalie a discrètement décru.
+
+Poursuite de la régression en taille du ventricule droit engagé, et il existe une stabilité de l’effacement du ventricule gauche. Hypersignaux FLAIR de la substance blanche du carrefour ventriculaire droite en lien avec de la résorption transépendymaire, comme visible sur le scanner précédent sous la forme d’hypodensités. Remaniements post-opératoires attendus visibles en regard du scalp.
+
+Il existe un infarctus aigu de la partie antérieure du lobe temporal gauche, s’étendant médiallement, avec de plus petites lésions ischémiques disséminées au sein de la substance blanche sous-insulaire. Un plus petit infarctus à la jonction de la région temporo-pariétale.
+
+Pas de nouveau saignement intracrânien en comparaison au dernier scanner.
+
+Rehaussement fin attendu de la cavité opératoire.
+
+Elargissement sous-jacent des ventricules et des espaces liquidiens péri-encéphaliques témoignant d’une atrophie cortico-sous-corticale avancée pour l’âge.
+
+Conclusion:
+1.  Lésion ischémique aigue de la partie antérieure du lobe temporal gauche avec de plus petits infarctus au sein de la substance blanche sous-insulaire et du putamen gauches. De plus petites lésions à la jonction pariéto-temporale inférieure au contact de la substance blanche.
+
+2.  Remaniements attendus post-craniectomie gauche pour évacuation d’hématome sous-dural avec poursuite de la régression de l’effet de masse en comparaison aux scanners précédents. Il persiste une déviation de la ligne médiane vers la droite du septum pellucidum et un élargissement du ventricule droit, en régression en comparaison aux examens antérieurs. !!remove Examen : IRM cérébrale avec et sans injection de produit de contraste
+
+Indication: Homme de 80 ans aux antécédents de lymphome à cellules T avec perte du mot depuis 3 jours. Recherche de masse ou de saignement.
+
+Technique: Séquences sagittales et axiales T1. Après injection intraveineuse de 9 mL de Gadavist, T2*, FLAIR, diffusion et T1. 3DMPRAGE
+
+Comparaison à l’IRM du 12/10/2014.
+
+Résultats:
+
+Majoration de taille de foyers d’hypersignaux T2 et diffusion du pallidum et du bras postérieur de la capsule interne gauches en comparaison à l’examen du 12/10/2014. Pas d’anomalie de signal ADC correspondant.
+
+Pas de prise de contraste pathologique. Pas de saignement intracrânien, d’oedème, de masse, d’effet de masse ou de déviation de la ligne médiane. Les ventricules et les sillons sont de taille et de morphologie normales. Les orbites et les tissus mous crânio-faciaux sont normaux.
+
+Conclusion:
+1. Majoration des hypersignaux T2/diffusion du pallidum et du bras postérieur de la capsule interne droits en comparaison à l’examen du 12/10/2014. Etant donné la valeur d’ADC normal, ces lésions sont compatibles avec une ischémie subaigue.
+2. Pas de saignement ou de masse intracrâniens. !!remove Examen: IRM cérébrale avec et sans injection de produit de contraste
+
+Indication: Femme de 80 ans ayant présenté un premier épisode de CTCG. Recherche d’anomalie morphologique intracrânienne.
+
+Technique: Séquences sagittale T1 FLAIR, axiales T2, T2*, et diffusion.  Après injection, séquences sagittales FLAIR et MP-RAGE avec reconstruction 3D.
+Séquence coronale T2 haute résolution sur les lobes temporaux.
+
+Comparaison au scanner du 12/10/2014.
+
+Résultats:
+
+Taille des ventricules, des sillons et des citernes appropriées pour l’âge. Pas d’effet de masse, de déviation de la ligne médiane, de saignement ou de collection péri-cérébrale. Intégrité du corps calleux. Myélinisation normale pour l’âge. Pas d’anomalie structurelle, de malformation du développement cortical ou d’hétérotopie. Pas de prise de contraste pathologique. Pas de sclérose temporale sur les images en coupes fines des lobes temporaux.
+
+Discret épaississement du fond du sinus maxillaire left, compatible avec un kyste rétentionnel. Orbites et cellules mastoïdiennes normaux.
+
+Conclusion:
+1. IRM globalement normale, sans syndrome de masse, infarctus ou sclérose temporale
+2. Discret épaississement du fond du sinus maxillaire droit, compatible avec un kyste rétentionnel.
+!!remove 
+Examen: IRM cérébrale
+
+Indication: Suivi d’un patient aux antécédents d’astrocytome anaplastique traité par chirurgie, radiothérapie et chimiothérapie. 
+
+Technique: Avant injection, séquences sagittales et axiales T1 et FLAIR T2, axiales T2* et diffusion. Après injection, axiale T1 et 3D MPRAGE. Séquence ASL et perfusion T2*.
+Comparaison avec l’IRM du  12/10/2014.
+
+Résultats: Globale stabilité voire régression partielle en comparaison avec l’examen précédent des remaniements post-opératoires en région frontale droite avec zone en hyposignal et hypersignal FLAIR périphérique. Pas de rehaussement pathologique du lit opératoire ou du reste des structures intracrâniennes. Pas d’augmentation de la perfusion.
+
+Conclusion: Stabilité des remaniements post-opératoires en région frontale gauche, sans récurrence de prise de contraste. Les anomalies FLAIR sont stables. Pas d’augmentation de la perfusion. !!remove Examen: IRM cérébrale
+
+Indication: Patient VIH positif suivi pour des lésions rehaussées vues sur des examens précédents.
+
+Protocole: Séquences sagittales et axiales T1 et FLAIR, axiales T2* et diffusion. Après injection, séquences axiale T1 et 3D MPRAGE. Comparaison avec l’examen du 12/10/2014.
+
+Résultats: Stabilité de l’oedeme péri-lésionnel autour des lésions annulaires rehaussées occipitales et parietales gauches précemment décrites. Ces lésions semblent discrètement plus petites. La lésion  du ganlion de la base gauche est inchangée. La lésion précédemment décrite dans le lobe temporal droit est moins visible ce jour. Pas de lésion rehaussée apparue. Pas de restriction de diffusion ou de déviation de la ligne médiane.
+
+Conclusion: Rehaussement mois intense des lésion annulaires multiples précédemment décrites, ce qui peut être dû à une différence de technique ou à une régression partielle. D’autres des lésions précédemment décrites sont inchangées, à titre d’exemple celles du lobe occipital droit et du ganglion de la base droit. La lésion précédemment décrite dans le lobe temporal droit n’est pas visible. Une poursuite du suivi est recommandée. Le diagnostic différentiel a été décrit dans un précédent compte-rendu. !!remove Examen: IRM cérébrale
+
+Indication: Patient aux antécédents de traumatismes crâniens répétés et de rixe, présentant des céphalées persistantes et des troubles de la mémoire.
+
+Protocole: Séquences sagittales T1 et T2 FLAIR, axiales T2* et diffusion.
+
+Résultats: Intégrité des ventricules et des espaces liquidiens péri-encéphaliques. Pas de déviation de la ligne médiane, d’effet de masse ou d’hydrocéphalie. Un hypersignal T2 de moins de 3mm de la substance blanche du carrefour ventriculaire gauche, non spécifique. Pas d’autre anomalie focale. Pas de microbleed. Les régions supra-sellaires et craniocervicales sont normales.
+
+Conclusion: IRM cérébrale sans injection normale. Une petite lésion en hypersignal T2 non spécifique du carrefour ventricule droit. !!remove Indication: Femme de 80 ans aux antécédents de méningiome.
+
+Protocole: IRM cérébrale avec injection selon le protocole du service.
+
+Comparaison avec l’examen sans et avec injection réalisé sur site le  12/10/2014
+
+Résultats: On voit bien le méningiome basé sur le sphénoïde droit, stabilité de sa taille, de son apparence et de son effet de masse sur la corne frontale ipsilatérale du ventricule latéral. Rehaussement relativement homogène. Les mesures sont faites pour la neuronavigation.
+Le reste de l’examen est inchangé en comparaison avec l’examen précédent.
+
+Conclusion: Méningiome stable inchangé, basé sur l’os sphénoïde gauche, avec stabilité de son effet de masse sur la corne frontale du ventricule latéral ipsilatéral.
